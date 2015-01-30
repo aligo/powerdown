@@ -7,8 +7,8 @@ Gem::Specification.new do |spec|
   spec.version = Powerdown::VERSION
   spec.authors = ['aligo']
   spec.email = ['aligo_x@163.com']
-  spec.description = %q{Markdown to PowerPoint.}
-  spec.summary = %q{Markdown-like to PowerPoint.}
+  spec.description = %q{PowerPoint from Markdown-like.}
+  spec.summary = %q{PowerPoint from Markdown-like.}
   spec.homepage = 'https://github.com/aligo/powerdown'
   spec.license = 'MIT'
   spec.files = `git ls-files`.split($/)
