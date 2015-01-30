@@ -29,9 +29,14 @@ slide3
  - item6
 ```
 
+### Installation
+```
+$ gem install powerdown
+```
+
 ### Usage
 
 ```
-powerdown file.pd
-open file.pptx
+$ powerdown file.pd
+$ open file.pptx
 ```
