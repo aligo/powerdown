@@ -1,5 +1,7 @@
 # Powerdown
 
+_ /paʊər-daʊn/ _
+
 ### Powerdown file
 
 ```
@@ -17,10 +19,9 @@ slide2
 
 !DOWN
 slide3
- - item3
- - aaa
- - aa
- - aaa
+ - item4
+ - item5
+ - item6
 ```
 
 ### Usage
