@@ -6,7 +6,6 @@ class Powerdown
   def initialize raw
     @raw = raw =~ /\A!DOWN/ ? raw : "!DOWN\n#{raw}"
     parse_slides
-    p @slides
   end
 
   def parse_slides
